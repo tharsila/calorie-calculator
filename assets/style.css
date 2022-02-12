@@ -118,3 +118,29 @@ ul {
 .container .content .result-container .result-content ul li strong {
   color: #e54;
 }
+
+
+@media(max-width: 600px) {
+  .container {
+    width: 330px;
+  }
+
+  .container .content .result-container .result-content ul li {
+    margin-bottom: 25px;
+  }
+
+  .container .content .result-container .result-content  {
+    margin-bottom: 20px;
+  }
+
+}
+
+@media(max-width: 360px) {
+  .container {
+    width: 80%;
+  }
+  .container header h1 {
+    font-size: 25px;
+  }
+  
+}
