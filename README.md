@@ -2,7 +2,7 @@
  
  <h2>Projeto Online no GitHub Pages</h2>
  <ul>
-  <li><a href=""> Site da calculadora</a></li>
+  <li><a href="https://tharsila.github.io/calorie-calculator/"> Site da calculadora</a></li>
  </ul>
  
  <h2>Tabela de Conteúdos</h2>
