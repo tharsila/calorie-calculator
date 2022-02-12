@@ -32,8 +32,8 @@
  <h3>Web</h3>
  
 <div align="center">
- <img align="center" src ="https://user-images.githubusercontent.com/89864249/153694738-d7813566-98bd-452e-a80a-406ce84459a1.PNG" width="500px" />
- <img align="center" src ="https://user-images.githubusercontent.com/89864249/153694790-4bd81f1a-26ae-43f1-a9c1-f64afea0e3e3.PNG" width="500px"/>
+ <img align="center" src ="https://user-images.githubusercontent.com/89864249/153694738-d7813566-98bd-452e-a80a-406ce84459a1.PNG" width="400px" />
+ <img align="center" src ="https://user-images.githubusercontent.com/89864249/153694790-4bd81f1a-26ae-43f1-a9c1-f64afea0e3e3.PNG" width="400px"/>
 </div>
 
  
