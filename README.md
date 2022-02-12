@@ -1,4 +1,4 @@
- <h1 align="center">:computer: Calculadora de Calorias</h1>
+ <h1 align="center">:pizza: Calculadora de Calorias</h1>
  
  <h2>Projeto Online no GitHub Pages</h2>
  <ul>
@@ -16,7 +16,8 @@
 <hr>
  
 <h2 id="sobre-o-projeto"> :page_with_curl:Sobre o projeto</h2>
-<p><p>
+<p> A calculadora de calorias é um projeto no qual os usuários podem verificar seu metabolismo basal(TMB) 
+ e consequentemente as calorias para manter, ganhar e perder peso.<p>
 <hr>
  
  <h2 id="layout">:art:Layout</h2>
@@ -31,9 +32,8 @@
  <h3>Web</h3>
  
 <div align="center">
- 
-
- 
+ <img align="center" src ="https://user-images.githubusercontent.com/89864249/153694738-d7813566-98bd-452e-a80a-406ce84459a1.PNG" width="500px" />
+ <img align="center" src ="https://user-images.githubusercontent.com/89864249/153694790-4bd81f1a-26ae-43f1-a9c1-f64afea0e3e3.PNG" width="500px"/>
 </div>
 
  
