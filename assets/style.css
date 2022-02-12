@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+body {
+  background: #212226;
+  font-family: 'Montserrat', sans-serif;
+  color: #15CDCB;
+}
+
+ul {
+  list-style: none;
+}
+
+.container {
+  width: 550px;
+  margin: 0 auto;
+}
+
+.container header {
+  width: 100%;
+  height: 150px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container header h1 {
+  letter-spacing: 3px;
+  background: radial-gradient(circle at 0% -25%,#FF8947 0%,#FF8354 0,#DA2C94 42%,#3E13A5 110%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+
+.container header img {
+  width: 40px;
+  margin-right: 2rem;
+}
+
+.container .content #form .form-group {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+}
+
+.container .content #form .form-group label {
+  font-size: 16px;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.container .content #form .form-group input,.container .content #form .form-group select {
+  background: #2F3034;
+  width: 100%;
+  height: 45px;
+  border: 1px solid transparent;
+  border-radius: 5px;
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 14px;
+  padding: 0 15px;
+  outline: none;
+  transition: border-color 0.2s ease-in;
+}
+
+.container .content #form .form-group input:focus,
+.container .content #form .form-group select:focus {
+  border-color: #e54;
+}
+
+.container .content #form .form-group button {
+  background-image: radial-gradient(circle at 0% -25%,#FF8947 0%,#FF8354 0,#DA2C94 42%,#3E13A5 110%);
+  border-radius: 5px;
+  border: none;
+  height: 45px;
+  color: #2F3034;
+  font-size: 18px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  cursor: pointer;
+  transition: all 0.3s ease-in;
+}
+
+.container .content #form .form-group button:hover {
+  border: 2px solid white;
+}
+
+
+.container .content #form .form-group:last-child {
+  margin-top: 40px;
+}
+
+.container .content .result-container {
+  margin-top: 50px;
+}
+
+.container .content .result-container .result-content {
+  margin-top: 10px;
+  background: #2F3034;
+  padding: 15px;
+  border-radius: 5px;
+}
+
+.container .content .result-container .result-content ul li {
+  font-size: 14px;
+  font-weight: bold;
+  font-family: 'Montserrat', sans-serif;
+  line-height: 30px;
+}
+
+.container .content .result-container .result-content ul li strong {
+  color: #e54;
+}
